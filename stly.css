@@ -1,0 +1,48 @@
+body { 
+text-align:center; 
+
+}
+img{ width:300px;
+height:300px;  
+border-radius:50%; 
+margin-top:50px;
+} 
+h1 { font-size:40px;  
+font-family:cursive;
+color:cadetblue; 
+} 
+h2 { 
+font-size:30px; 
+font-family:monospace; 
+color:mediumorchid; 
+}
+p{ font-size:20px; 
+color:crimson; 
+
+} 
+#welcome {height:800px;
+color:white;              
+background-color:darkorchid; 
+top:0; 
+bottom:0; 
+right:0; 
+left:0; 
+width:100%; 
+height:100%; 
+vertical-align:middle; 
+
+margin-top:100px; 
+} 
+.menu{text-decoration:none; 
+position:absolute;  
+background-color:drakorchid;
+color:orange;
+margin-top:0px;
+} 
+.link{float:right; 
+padding-top:10px;
+padding-bottom:10px; 
+padding-left:50; 
+padding-top:50; 
+    
+}
